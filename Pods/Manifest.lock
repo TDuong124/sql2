@@ -1,0 +1,20 @@
+PODS:
+  - MySqlSwiftNative (1.0.10)
+  - Swifter (1.0.9)
+
+DEPENDENCIES:
+  - MySqlSwiftNative (~> 1.0.6)
+  - Swifter (~> 1.0.6)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MySqlSwiftNative
+    - Swifter
+
+SPEC CHECKSUMS:
+  MySqlSwiftNative: 25d6d8c5db9d114a9b839aa5cb7de6d1f460f596
+  Swifter: 6d1677c4e9f19072863f8806327854269fe1ae41
+
+PODFILE CHECKSUM: afb60b04a5d8ceed3342768ec6c6c5294ef3dc41
+
+COCOAPODS: 1.7.5
